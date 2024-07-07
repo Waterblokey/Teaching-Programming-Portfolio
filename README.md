@@ -4,6 +4,7 @@ A portfolio of the programming education work I have done
 - [Code Walkthroughs](#code-walkthroughs)
   - [Sprite Drawing a House](#sprite-drawing-a-house )
   - [Repeats: Dancing Sprite](#repeats-dancing-sprite)
+  - [Repeats: Animal Parade](#repeats-animal-parade)
 - [Contact Information](find-me-online)
 ## Code Walkthroughs 
 ### Sprite Drawing a House 
@@ -13,6 +14,9 @@ A portfolio of the programming education work I have done
 ### Repeats: Dancing Sprite
 
 [<img src="https://img.youtube.com/vi/VZNqcYsJUbY/maxresdefault.jpg" width="375">](https://youtu.be/VZNqcYsJUbY)
+
+### Repeats: Animal Parade
+[<img src="https://img.youtube.com/vi/aSdvwGgWlmA/maxresdefault.jpg" width="375">](https://youtu.be/aSdvwGgWlmA)
 
 ## Find Me Online
 [LinkedIn](https://www.linkedin.com/in/ryan-livengood-6073861bb/)
