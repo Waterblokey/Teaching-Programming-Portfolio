@@ -6,6 +6,7 @@ A portfolio of the programming education work I have done
   - [Repeats: Dancing Sprite](#repeats-dancing-sprite)
   - [Repeats: Animal Parade](#repeats-animal-parade)
   - [Nested Repeats: Octagon Mouse](#nested-repeats-octagon-mouse)
+  - [Events: Banana Game](#events=banana-game)
 - [Contact Information](find-me-online)
 ## Code Walkthroughs 
 ### Sprite Drawing a House 
@@ -21,6 +22,10 @@ A portfolio of the programming education work I have done
 
 ### Nested Repeats: Octagon Mouse
 [<img src="https://img.youtube.com/vi/BXZIecjg8XE/maxresdefault.jpg" width="375">]([https://youtu.be/aSdvwGgWlmA](https://youtu.be/BXZIecjg8XE))
+
+### Events: Banana Game
+[<img src="https://img.youtube.com/vi/DhAF9hoDNDE/maxresdefault.jpg" width="375">]([https://youtu.be/aSdvwGgWlmA]([https://youtu.be/BXZIecjg8XE](https://youtu.be/DhAF9hoDNDE)))
+
 
 ## Find Me Online
 [LinkedIn](https://www.linkedin.com/in/ryan-livengood-6073861bb/)
