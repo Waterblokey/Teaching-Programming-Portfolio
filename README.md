@@ -8,6 +8,7 @@ A portfolio of the programming education work I have done
   - [Nested Repeats: Octagon Mouse](#nested-repeats-octagon-mouse)
   - [Events: Banana Game](#events-banana-game)
   - [Variables: Drawing Shapes](#variables-drawing-shapes)
+  - [Conditional Repeats: Ball Game](#conditional-repeats-ball-game)
 - [Contact Information](find-me-online)
 ## Code Walkthroughs 
 ### Sprite Drawing a House 
@@ -22,13 +23,17 @@ A portfolio of the programming education work I have done
 [<img src="https://img.youtube.com/vi/aSdvwGgWlmA/maxresdefault.jpg" width="375">](https://youtu.be/aSdvwGgWlmA)
 
 ### Nested Repeats: Octagon Mouse
-[<img src="https://img.youtube.com/vi/BXZIecjg8XE/maxresdefault.jpg" width="375">]([https://youtu.be/aSdvwGgWlmA](https://youtu.be/BXZIecjg8XE))
+[<img src="https://img.youtube.com/vi/BXZIecjg8XE/maxresdefault.jpg" width="375">](https://youtu.be/BXZIecjg8XE)
 
 ### Events: Banana Game
-[<img src="https://img.youtube.com/vi/DhAF9hoDNDE/maxresdefault.jpg" width="375">]([https://youtu.be/aSdvwGgWlmA]([https://youtu.be/BXZIecjg8XE](https://youtu.be/DhAF9hoDNDE)))
+[<img src="https://img.youtube.com/vi/DhAF9hoDNDE/maxresdefault.jpg" width="375">](https://youtu.be/DhAF9hoDNDE)
 
 ### Variables: Drawing Shapes
-[<img src="https://img.youtube.com/vi/6Rmv26TMy24/maxresdefault.jpg" width="375">]([https://youtu.be/aSdvwGgWlmA]([https://youtu.be/BXZIecjg8XE]([https://youtu.be/DhAF9hoDNDE](https://youtu.be/6Rmv26TMy24))))
+[<img src="https://img.youtube.com/vi/6Rmv26TMy24/maxresdefault.jpg" width="375">](https://youtu.be/6Rmv26TMy24)
+
+### Conditional Repeats: Ball Game
+[<img src="https://img.youtube.com/vi//pDpCTj9eVNk/maxresdefault.jpg" width="375">](https://youtu.be/pDpCTj9eVNk)
+
 
 
 ## Find Me Online
