@@ -32,7 +32,7 @@ A portfolio of the programming education work I have done
 [<img src="https://img.youtube.com/vi/6Rmv26TMy24/maxresdefault.jpg" width="375">](https://youtu.be/6Rmv26TMy24)
 
 ### Conditional Repeats: Ball Game
-[<img src="https://img.youtube.com/vi//pDpCTj9eVNk/maxresdefault.jpg" width="375">](https://youtu.be/pDpCTj9eVNk)
+[<img src="https://img.youtube.com/vi/pDpCTj9eVNk/maxresdefault.jpg" width="375">](https://youtu.be/pDpCTj9eVNk)
 
 
 
