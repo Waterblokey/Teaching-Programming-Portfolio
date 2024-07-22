@@ -9,6 +9,7 @@ A portfolio of the programming education work I have done
   - [Events: Banana Game](#events-banana-game)
   - [Variables: Drawing Shapes](#variables-drawing-shapes)
   - [Conditional Repeats: Ball Game](#conditional-repeats-ball-game)
+  - [If Else: Target Game](#if-else-target-game)
 - [Contact Information](find-me-online)
 ## Code Walkthroughs 
 ### Sprite Drawing a House 
@@ -33,6 +34,10 @@ A portfolio of the programming education work I have done
 
 ### Conditional Repeats: Ball Game
 [<img src="https://img.youtube.com/vi/pDpCTj9eVNk/maxresdefault.jpg" width="375">](https://youtu.be/pDpCTj9eVNk)
+
+### If Else: Target Game
+[<img src="https://img.youtube.com/vi/41aU2wKQB_8/maxresdefault.jpg" width="375">](https://www.youtu.be/41aU2wKQB_8)
+
 
 
 
