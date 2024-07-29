@@ -10,6 +10,7 @@ A portfolio of the programming education work I have done
   - [Variables: Drawing Shapes](#variables-drawing-shapes)
   - [Conditional Repeats: Ball Game](#conditional-repeats-ball-game)
   - [If Else: Target Game](#if-else-target-game)
+  - [If Else: Penguin Beach](#if-else-penguin-beach)
 - [Contact Information](find-me-online)
 ## Code Walkthroughs 
 ### Sprite Drawing a House 
@@ -37,6 +38,11 @@ A portfolio of the programming education work I have done
 
 ### If Else: Target Game
 [<img src="https://img.youtube.com/vi/41aU2wKQB_8/maxresdefault.jpg" width="375">](https://www.youtu.be/41aU2wKQB_8)
+
+### If Else: Penguin Beach
+[<img src="https://img.youtube.com/vi/zMIru0PVJfU/maxresdefault.jpg" width="375">](https://youtu.be/zMIru0PVJfU)
+
+
 
 
 
