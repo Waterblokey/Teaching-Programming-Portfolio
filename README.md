@@ -13,6 +13,7 @@ A portfolio of the programming education work I have done
   - [If Else: Penguin Beach](#if-else-penguin-beach)
   - [Detector](#detector)
   - [picture](#picture)
+  - [video](#video)
 - [Contact Information](find-me-online)
 ## Code Walkthroughs 
 ### Sprite Drawing a House 
@@ -49,6 +50,9 @@ A portfolio of the programming education work I have done
 
 ### picture
 [<img src="https://img.youtube.com/vi/kg1R4EkFKPU/maxresdefault.jpg" width="375">](https://youtu.be/kg1R4EkFKPU)
+
+### video
+[<img src="https://img.youtube.com/vi/wnQJ2z4eOEM/maxresdefault.jpg" width="375">](https://youtu.be/wnQJ2z4eOEM)
 
 
 
