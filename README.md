@@ -12,6 +12,7 @@ A portfolio of the programming education work I have done
   - [If Else: Target Game](#if-else-target-game)
   - [If Else: Penguin Beach](#if-else-penguin-beach)
   - [Detector](#detector)
+  - [picture](#picture)
 - [Contact Information](find-me-online)
 ## Code Walkthroughs 
 ### Sprite Drawing a House 
@@ -46,7 +47,8 @@ A portfolio of the programming education work I have done
 ### Detector
 [<img src="https://img.youtube.com/vi/_KxFZ165-8c/maxresdefault.jpg" width="375">](https://youtu.be/_KxFZ165-8c)
 
-
+### picture
+[<img src="https://img.youtube.com/vi/kg1R4EkFKPU/maxresdefault.jpg" width="375">](https://youtu.be/kg1R4EkFKPU)
 
 
 
